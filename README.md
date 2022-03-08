@@ -1,2 +1,9 @@
-# web-lab07
-Lab 7.1 : WebPack with Babel
+# Lab 6: WebPack and SASS/SCSS
+
+### Angel Higueros - 20460
+
+```sh
+npm install
+npm run start
+cd build
+```
