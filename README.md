@@ -5,5 +5,5 @@
 ```sh
 npm install
 npm run start
-cd build
+cd bundle_sin_babel // cd bundle_con_babel
 ```
